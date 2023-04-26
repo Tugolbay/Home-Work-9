@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+.App {
+  position: absolute;
+  width: 100%;
+  height: 65px;
+  background: #ab92ff;
+}
+.usersDataContainer {
+  margin-top: 200px;
+  margin-left: 500px;
+}
+.usersData {
+  width: 400px;
+  height: 100px;
+  background: #c792ff;
+  margin-top: 50px;
+}
+.id {
+  position: relative;
+  top: 10px;
+  left: 160px;
+}
+.name {
+  position: relative;
+  top: 20px;
+  left: 100px;
+}
+.userName {
+  position: relative;
+  top: 30px;
+  left: 100px;
+}
+.red {
+  color: red;
+}
